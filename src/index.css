@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#delete{
+  background-color: rgba(242, 133, 116);
+  padding: 0.5em 0.6em;
+  border-radius: 0.2em;
+  cursor: pointer;
+}
+
+#edit{
+  background-color: rgb(235, 175, 64);
+  padding: 0.5em 0.5em;
+  border-radius: 0.2em;
+  cursor: pointer;
+}
